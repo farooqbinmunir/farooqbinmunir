@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farooqbinmunir
 - 👀 I’m interested in coding (JavaScript/PHP)
-- 🌱 I’m currently learning PHP/WordPress
+- 🌱 I’m currently learning Custom Theme Development - WordPress - Web Deveopment
 - 💞️ I’m looking to collaborate on Web Development
 
 <!---
