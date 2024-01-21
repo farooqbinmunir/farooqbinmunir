@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farooqbinmunir (FBM)
+- 👋 Hi, I’m Farooq Bin Munir - @farooqbinmunir
 - 👀 I’m interested in coding (JavaScript/PHP, OOP, AJAX)
 - 🌱 I’m currently learning Web Development, Custom Theme Development, Plugin Development, WordPress, Woocommerce
 - 💞️ I’m looking to collaborate on WordPress, Woocommerce
