@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farooqbinmunir (FBM)
-- 👀 I’m interested in coding (JavaScript/PHP)
-- 🌱 I’m currently learning Custom Theme Development - WordPress - Web Deveopment
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in coding (JavaScript/PHP, OOP, AJAX)
+- 🌱 I’m currently learning Web Development, Custom Theme Development, Plugin Development, WordPress, Woocommerce
+- 💞️ I’m looking to collaborate on WordPress, Woocommerce
 
 <!---
 farooqbinmunir/farooqbinmunir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
