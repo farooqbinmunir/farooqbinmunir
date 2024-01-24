@@ -9,7 +9,7 @@
     - Frontend Developer
     - Backend Developer
     - Theme Developer
-    - Plugin Peveloper
+    - Plugin Developer
     - Programmer
 - 👀 I’m interested in Coding/Programming (JavaScript/PHP, OOP, AJAX)
 - 🌱 I’m currently learning Web Development, Custom Theme Development, Plugin Development, WordPress, Woocommerce
