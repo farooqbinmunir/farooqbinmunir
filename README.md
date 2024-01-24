@@ -1,3 +1,4 @@
+# Farooq Bin Munir
 - 👋 Hi, I’m Farooq Bin Munir - @farooqbinmunir
 - 💞️ I’m a Web Developer(Wordpress Developer/Woocommerce Developer/PHP Developer/JavaScript/JS Developer)
 - 👀 I’m interested in coding (JavaScript/PHP, OOP, AJAX)
