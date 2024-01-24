@@ -4,8 +4,12 @@
     - Wordpress Developer
     - Woocommerce Developer
     - PHP Developer
-    - JavaScript/JS Developer
-    - HTML Developer/Frontend Developer/Backend Developer/Theme Developer/Plugin Peveloper)
+    - JavaScript Developer / JS Developer
+    - HTML Developer
+    - Frontend Developer
+    - Backend Developer
+    - Theme Developer
+    - Plugin Peveloper
 - 👀 I’m interested in coding (JavaScript/PHP, OOP, AJAX)
 - 🌱 I’m currently learning Web Development, Custom Theme Development, Plugin Development, WordPress, Woocommerce
 - 💞️ I’m looking to collaborate on WordPress, Woocommerce
