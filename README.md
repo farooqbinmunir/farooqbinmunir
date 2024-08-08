@@ -1,6 +1,7 @@
 # Farooq Bin Munir
 - 👋 Hi, I’m Farooq Bin Munir - @farooqbinmunir
 - 💞️ I’m a Web Developer at Wiselogix Technologies
+  I also work as a
     - Wordpress Developer
     - Woocommerce Developer
     - PHP Developer
