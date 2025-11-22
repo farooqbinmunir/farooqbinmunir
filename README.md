@@ -1,22 +1,19 @@
-# Farooq Bin Munir
-- 👋 Hi, I’m Farooq Bin Munir - @farooqbinmunir
-- 💞️ I’m a Web Developer at Wiselogix Technologies
-  I also work as a
-    - Wordpress Developer
-    - Woocommerce Developer
-    - PHP Developer
-    - JavaScript Developer / JS Developer
-    - HTML Developer
-    - Frontend Developer
-    - Backend Developer
-    - Theme Developer
-    - Plugin Developer
-    - Programmer
-- 👀 I’m interested in Coding/Programming (JavaScript/PHP, OOP, AJAX)
-- 🌱 I’m currently learning Web Development, Custom Theme Development, Plugin Development, WordPress, Woocommerce
-- 💞️ I’m looking to collaborate on WordPress, Woocommerce
+### Hi there, I'm Farooq Bin Munir 👋
 
-<!---
-farooqbinmunir/farooqbinmunir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Web Developer | WordPress & WooCommerce Specialist**
+
+I'm a Full-Stack Developer at [Wiselogix Technologies](https://wiselogix.com), passionate about building dynamic and scalable web solutions. My focus is on the WordPress ecosystem, where I develop custom themes, plugins, and complex e-commerce sites with WooCommerce.
+
+**🛠️ Technologies & Skills**
+*   **Back-End:** PHP (OOP), WordPress, WooCommerce, AJAX
+*   **Front-End:** JavaScript, HTML, CSS
+*   **Focus Areas:** Custom Theme Development, Plugin Development, Full-Stack Integration
+
+**🌱 Currently Learning**
+I'm deepening my expertise in advanced WordPress development, including modern PHP practices, REST API integration, and improving UI/UX for complex applications.
+
+**💼 Looking to Collaborate On**
+I'm interested in collaborating on open-source WordPress plugins, innovative WooCommerce projects, or any challenging PHP/JavaScript development work.
+
+**📫 How to reach me:**
+[Link to your LinkedIn Profile] | [Link to your Portfolio]
