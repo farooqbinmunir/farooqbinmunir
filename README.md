@@ -16,4 +16,4 @@ I'm deepening my expertise in advanced WordPress development, including modern P
 I'm interested in collaborating on open-source WordPress plugins, innovative WooCommerce projects, or any challenging PHP/JavaScript development work.
 
 **📫 How to reach me:**
-[Link to your LinkedIn Profile] | [Link to your Portfolio]
+[LinkedIn](https://www.linkedin.com/in/farooqbinmunir/) | [CodePen](https://codepen.io/Farooq-Bin-Munir/)
