@@ -1,6 +1,6 @@
 ### Hi there, I'm Farooq Bin Munir 👋
 
-**Web Developer | WordPress & WooCommerce Specialist**
+**Web Developer | JavaScript ES+, WordPress, WooCommerce & Shopify Specialist**
 
 I'm a Full-Stack Developer at [Wiselogix Technologies](https://wiselogix.com), passionate about building dynamic and scalable web solutions. My focus is on the WordPress ecosystem, where I develop custom themes, plugins, and complex e-commerce sites with WooCommerce.
 
