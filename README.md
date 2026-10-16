@@ -1,6 +1,6 @@
 ### Hi there, I'm Farooq Bin Munir 👋
 
-**Web Developer | JavaScript ES+, WordPress, WooCommerce & Shopify Specialist**
+**Software Engineer | Web Developer | JavaScript ES+, WordPress, WooCommerce & Shopify Specialist**
 
 I'm a Full-Stack Developer at [Rex Technologies](https://rextech.pk), passionate about building dynamic and scalable web solutions. My focus is on the WordPress ecosystem, where I develop custom themes, plugins, and complex e-commerce sites with WooCommerce.
 
